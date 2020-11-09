@@ -30,6 +30,7 @@ nav, #logo_name{
 	text-align: center;
 	padding-top: 200px;
 	padding-left: 30px;
+	font-size: 1.5em;
 }
 
 #explore button{
@@ -134,11 +135,27 @@ li{
 	#header_saree{
 		height: 300px;
 		width: 200px;
+		padding-right: 20px;
+		margin-right: 20px;
 	}
 
 	#header_text{
 		font-size: 10px;
 		padding-top: 5px;
 	}
+
+	#explore button{
+	border-radius: 2em;
+	width: 80%;
+	height: 30px;
+	border: none;
+	background-color: #f14e4e;
+	font-size: 1em;
+}
+
+
+	
+	
+
 
 }
